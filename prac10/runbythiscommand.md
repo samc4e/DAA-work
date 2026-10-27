@@ -1,0 +1,14 @@
+Run by this command:    g++ dijkstra.cpp -o main
+                        and then run ./main
+
+Sample input:
+5 6
+0 1 4
+0 2 1
+2 1 2
+1 3 1
+2 3 5
+3 4 3
+0
+
+Expected output: distances 0 3 1 4 7
